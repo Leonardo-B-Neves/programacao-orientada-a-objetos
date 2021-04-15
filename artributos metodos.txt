@@ -1,0 +1,27 @@
+pessoa
+_______________________________
+//atributos
+peso
+altura
+telefone
+data de nacimento
+nome
+_______________________________
+//metodos
+idade
+verifica se esta acima do peso
+_______________________________
+_______________________________
+carro
+_______________________________
+//atibutos
+cor 
+marca
+modelo
+ano de fabricação
+velocidade maxima
+_______________________________
+//metodo
+tempo des da fabricação
+_______________________________
+_______________________________
